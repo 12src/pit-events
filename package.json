@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "node collector.cjs",
+    "deploy": "node deploy.cjs"
+  },
+  "dependencies": {
+    "mineflayer": "4.39.0",
+    "prismarine-auth": "3.1.1",
+    "prismarine-nbt": "2.8.0"
+  },
+  "devDependencies": {
+    "wrangler": "4.151.2"
+  }
+}

@@ -1,0 +1,9 @@
+node_modules/
+auth-cache/
+captures/
+.wrangler/
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+latest.log

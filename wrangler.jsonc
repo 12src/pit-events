@@ -1,0 +1,11 @@
+{
+  "name": "pit-events",
+  "main": "worker.mjs",
+  "workers_dev": true,
+  "compatibility_date": "2026-10-18",
+  "d1_databases": [{ "binding": "DB", "database_name": "pit-events" }],
+  "observability": {
+    "enabled": false,
+    "traces": { "enabled": false }
+  }
+}
